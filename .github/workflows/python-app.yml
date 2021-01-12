@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: hiwane/docker-numpy
+    runs-on: iwane/numpy
 
     steps:
     - uses: actions/checkout@v2
